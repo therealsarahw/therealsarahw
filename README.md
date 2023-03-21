@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **why pineapple belongs on pizza.**
 
-- 📫 How to reach me **talent@therealsarahwalker.com**
-
 - ⚡ Fun fact **I run a worldwide clothing brand called "The Room"**
 
 <h3 align="left">Connect with me:</h3>
