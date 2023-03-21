@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
-<h3 align="center">A passionate entrepuener that dabbles in HTML, LUA, and js from USA</h3>
+<h3 align="center">A passionate entrepreneur that dabbles in HTML, LUA, and js from USA</h3>
 
 - 🔭 I’m currently working on **A FiveM Server**
 
 - 🌱 I’m currently learning **LUA**
 
-- 👨‍💻 All of my projects are available at [https://www.theroomus.com](https://www.theroomus.com)
+- 👨‍💻 My only public project is [The Room](https://www.theroomus.com)
 
 - 💬 Ask me about **why pineapple belongs on pizza.**
 
